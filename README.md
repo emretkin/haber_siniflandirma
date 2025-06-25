@@ -1,0 +1,1 @@
+Python ile webscraping işlemi yapılarak çekilen 6000 haber başlığının kategorisine göre sınıflandırılması için MultinomialNB,LinearSvc,Logistic Regression algoritmaları kullanılmış ve sonuçlar karşılaştırılmıştır.
